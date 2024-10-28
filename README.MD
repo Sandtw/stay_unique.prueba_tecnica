@@ -219,7 +219,7 @@ Decidí realizarlo por base de datos, utilizando como librería y conexión `pym
 
 Opté por el siguiente diagrana ER.
 
-![pat18](imgs/img20.png)
+![part20](imgs/img20.png)
 
 
 # Ejecución
